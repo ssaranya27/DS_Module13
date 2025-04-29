@@ -1,5 +1,5 @@
 # Ex2 Conversion of the infix expression into postfix expression
-## DATE:
+## DATE: 29/04/2025
 ## AIM:
 To write a C program to convert the infix expression into postfix form using stack by following the operator precedence and associative rule.
 
@@ -15,6 +15,11 @@ operators.
 
 ## Program:
 ```
+/*
+Program to convert the infix expression into postfix expression
+Developed by: SARANYA S.
+RegisterNumber:  212223220101
+*/
 #include <stdio.h>
 #include <ctype.h>
 
