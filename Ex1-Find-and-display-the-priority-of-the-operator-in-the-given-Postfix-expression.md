@@ -1,5 +1,5 @@
 # EX 1 Display operator precedence in the infix expression.
-## DATE:
+## DATE:29/04/2025
 ## AIM:
 To write a C program to find and display the priority of the operator in the given Postfix expression "(P%Q)/A*B^C+(R-S/U)+W^V"
 
@@ -14,6 +14,12 @@ To write a C program to find and display the priority of the operator in the giv
 
 ## Program:
 ```
+/*
+Program to find and display the priority of the operator in the given Postfix expression
+Developed by: SARANYA S.
+RegisterNumber:  212223220101
+*/
+
 #include <stdio.h>
 #include <ctype.h>
 
@@ -79,10 +85,13 @@ int main() {
 ```
 
 ## Output:
+
 SAMPLE OUTPUT:
+
 ![image](https://github.com/user-attachments/assets/9a72369c-9970-4f7c-941a-c31907357380)
 
 OUTPUT:
+
 ![image](https://github.com/user-attachments/assets/5c00e580-bc7d-4d00-bb51-b6bc5bfc427f)
 
 
